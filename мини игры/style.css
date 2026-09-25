@@ -48,7 +48,7 @@ a {
   background: #202027;
   color: #FFF;
   text-align: center;
-  font-size: 34px;
+  font-size: 24px;
   font-style: normal;
   font-weight: 600;
   line-height: 141.688%; /* 34.005px */
@@ -176,7 +176,7 @@ a {
   font-family: Montserrat;
   font-size: 16px;
   font-weight: 500;
-  line-height: 47px;
+  line-height: 35px;
   width: 108px;
   height: 36px;
   margin-left: 16px;
@@ -207,8 +207,4 @@ a {
   padding-bottom: 24px;
   color: #FFFFFF;
   scroll-behavior: smooth;
-}
-.top__content::before{
- background-image: url(./img/Star-fon.svg);
- background-position: 20px;
 }
