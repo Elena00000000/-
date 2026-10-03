@@ -294,11 +294,12 @@ height: 539.72px;
 right: 0;
 }
 
-
+.container{
+  position: relative;
+}
 .staar-rr{
-  margin-left: -70px;
-    width: 54.6px;
-    height: 1671.6px;
+  top: 820px;
+  left: 40px;
     position: absolute;
 }
 .star-ra{
